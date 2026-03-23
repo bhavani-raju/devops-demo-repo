@@ -1,0 +1,2 @@
+This is git practice with content
+Content created usin echo
